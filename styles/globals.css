@@ -22,7 +22,7 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background-image: linear-gradient(to right, #417ec6, #3094d2, #2da8db, #3ebce0, #5bcfe3, #50dae4, #4de6e1, #55f0db, #35f5c8, #30f9ad, #4afb8a, #6cfb5f);
   }
 }
 nav {
