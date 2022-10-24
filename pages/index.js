@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* useRef + scrolling */}
-      
+      <h1>Homepage</h1>
       </div>
   )
 }  

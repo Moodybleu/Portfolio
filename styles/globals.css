@@ -34,10 +34,17 @@ nav {
   padding-right: 0px;
   padding-bottom: 20px;
   padding-left: 0px;
+  text-align: center;
 }
 a {
   color: white !important;
   margin: 20px;
   text-decoration: none !important; 
-  text-shadow: 1px 1px 2px black;
+  text-shadow: 1px 1px 2px grey;
 }
+h1, p {
+  text-align: center;
+  text-shadow: 1px 1px 2px grey;
+  max-width: 500px;
+}
+
