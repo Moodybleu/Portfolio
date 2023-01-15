@@ -1,6 +1,7 @@
 import styles from '../styles/Project.module.css'
 import Image from "next/image"
 
+
 export default function projects(){
     return(
         <div>
