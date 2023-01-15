@@ -13,5 +13,6 @@ export default function Home() {
       {/* useRef + scrolling */}
       <h1>Homepage</h1>
       </div>
+      
   )
 }  
